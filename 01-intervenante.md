@@ -4,7 +4,7 @@ title: Intervenants
 permalink: /intervenante/
 ---
 
-# Intervenante : Isabelle Levrat --
+# Intervenante : Isabelle Levrat 
 
 Isabelle a conçu de A à Z différents ateliers, dont l’objectif principal est de bien comprendre et intégrer les différents processus cérébraux, physiologiques, émotionnels, comportementaux induits lors de situations de stress ressenti, et de s’en extraire rapidement et efficacement.
 
