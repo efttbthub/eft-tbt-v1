@@ -34,8 +34,7 @@ Le TBT va être utilisé plus spécifiquement sur des chocs, drames, traumas.
 
 Prochain groupe:
 
-Samedi 30 janvier 2016 à Genève
+ceci est une modification / à Genève
 Thème: "J’ai mal au dos..., j’en peux plus de ces douleurs..., je me sens bloqué(e) dans tout ce que j’entreprends (physiquement ou dans mes projets)..., je ne me sens pas bien en général...,
 
 [En lire plus](la-puissance-du-groupe)
-
