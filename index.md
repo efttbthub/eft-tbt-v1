@@ -3,8 +3,9 @@ layout: default
 ---
 
 
-# Ouverture des ateliers 2016 EFT / TBT de groupes
+# Ouverture des ateliers 2016 EFT / TBT de groupes
 
+coucou
 
 > "Sciez une planche avec un marteau et plantez un clou avec une scie"
 
