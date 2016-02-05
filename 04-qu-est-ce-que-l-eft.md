@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Qu’est-ce que l’EFT?
-permalink: /qu-est-ce-que-l-eft/
 ---
 
 # Qu’est-ce que l’EFT?

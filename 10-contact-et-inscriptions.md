@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Inscription
-permalink: /contact-et-inscriptions/
 ---
 
 # Inscriptions aux groupes et contact

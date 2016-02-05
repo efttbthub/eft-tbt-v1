@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Qu’est-ce que le TBT ?
-permalink: /qu-est-ce-que-le-tbt/
 ---
 
 # TBT – Trauma Buster Technique
