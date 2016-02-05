@@ -1,0 +1,15 @@
+# Site settings
+title: "EFT-TBT Groups"
+email: eft.tbt@gmail.com
+description: > # Site internet d’Isabelle Levrat — EFT–TBT Groups
+locale: fr
+
+# url: "http://eft-tbt.com/"
+
+url: "http://efttbthub.github.io/"
+baseurl: "eft-tbt-v1"
+
+
+markdown: kramdown
+
+exclude: ["CNAME", "README.md"]
