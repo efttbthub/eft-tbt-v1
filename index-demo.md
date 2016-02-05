@@ -3,6 +3,16 @@ layout: default
 ---
 
 
+![](./statiques/univers.jpg)
+
+
+
+![](./statiques/th.jpg)
+
+
+
+![](http://thumbs.dreamstime.com/x/eft-tapping-points-woman-doing-under-lip-point-emotional-freedom-techniques-form-counseling-intervention-draws-50380693.jpg)
+
 # Ouverture des ateliers 2016 EFT / TBT de groupes
 
 
@@ -14,7 +24,7 @@ Et les choses ne font que se répéter quand il est question de concentration d�
 
 > "La folie, c’est de faire toujours la même chose, et de s’attendre à un résultat différent !"  Albert Einstein.
 
----
+![](./statiques/testphoto.png)
 
 ## QUE TROUVER DANS CES ATELIERS ["EFT GROUPES"](la-puissance-du-groupe)?
 
@@ -30,11 +40,24 @@ Le TBT va être utilisé plus spécifiquement sur des chocs, drames, traumas.
 ---
 
 
-## [Ateliers / Groupes par thème](ou-quand-comment)
+## [Ateliers / Groupes par thème](ou-quand-comment)
 
-Prochain groupe :
+Prochain groupe:
 
 ceci est une modification / à Genève
 Thème: "J’ai mal au dos..., j’en peux plus de ces douleurs..., je me sens bloqué(e) dans tout ce que j’entreprends (physiquement ou dans mes projets)..., je ne me sens pas bien en général...,
 
 [En lire plus](la-puissance-du-groupe)
+
+
+
+# test Texte
+
+###### Titre
+
+ghjqgfizyfzoufhzk
+guizgfkh  *italique* **gras** eo!fibu
+
+[Texte du lien](http://ouilogique.com)
+
+<http://ouilogique.com>
