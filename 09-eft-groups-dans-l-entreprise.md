@@ -1,6 +1,7 @@
 ---
 layout: page
-title: EFT groups dans l’entreprise
+title: "EFT groups dans l’entreprise"
+permalink: /eft-groups-dans-l-entreprise/
 ---
 
 

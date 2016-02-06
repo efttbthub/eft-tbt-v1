@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Que se passe-t-il en séance?
+permalink: /seance-de-groupe/
 ---
 
 # Ateliers EFT/TBT Groups
