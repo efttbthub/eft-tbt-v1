@@ -4,9 +4,9 @@ title: Que se passe-t-il en séance?
 permalink: /seance-de-groupe/
 ---
 
-# Ateliers EFT/TBT Groups
+# Ateliers EFT/TBT Groups
 
-## Comment se déroule la séance de groupe?
+## Comment se déroule la séance de groupe?
 
 9h00
 

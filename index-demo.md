@@ -40,7 +40,7 @@ Le TBT va être utilisé plus spécifiquement sur des chocs, drames, traumas.
 ---
 
 
-## [Ateliers / Groupes par thème](ou-quand-comment)
+## [Ateliers / Groupes par thème](ou-quand-comment)
 
 Prochain groupe:
 

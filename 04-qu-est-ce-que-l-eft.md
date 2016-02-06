@@ -4,7 +4,7 @@ title: Qu’est-ce que l’EFT?
 permalink: /qu-est-ce-que-l-eft/
 ---
 
-# Qu’est-ce que l’EFT?
+# Qu’est-ce que l’EFT?
 
 C’est une technique simple, facile d’accès, ne nécessitant qu’un pré requis, celui de vouloir se sentir mieux!
 

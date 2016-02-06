@@ -5,7 +5,7 @@ permalink: /ou-quand-comment/
 ---
 
 
-# Dates – Lieux – Horaires – Prix des ateliers
+# Dates – Lieux – Horaires – Prix des ateliers
 
 ## GENÈVE
 
@@ -15,7 +15,7 @@ Horaires : 9H00 à 13H00
 Prix : 260.- CHF
 
 
-## Groupes EFT en construction
+## Groupes EFT en construction
 
 Les groupes en construction, sont des personnes qui souhaitent travailler en groupe sur un sujet précis. Le nombre de participants n’étant pas suffisant pour qu’il aie suffisamment d’impact, ces personnes se sont inscrites, via mail, et sont en attente que d’autres participants se fassent connaître, pour lancer le travail du groupe.
 
