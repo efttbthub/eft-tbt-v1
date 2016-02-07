@@ -1,15 +1,20 @@
-# Site settings
-title: "EFT-TBT Groups"
-email: eft.tbt@gmail.com
-description: "Site internet d’Isabelle Levrat — EFT–TBT Groups"
-locale: fr
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+# permalink:           pretty
+# relative_permalinks: true
 
-# url: "http://eft-tbt.com/"
+# Setup
+title:               "EFT-TBT Groups"
+email:               eft.tbt@gmail.com
+tagline:             "Isabelle Levrat"
+description:         "Isabelle Levrat<br />EFT–TBT Groups"
+# url:               "http://eft-tbt.com/"
+url:                 "http://efttbthub.github.io/"
+baseurl:             "eft-tbt-v1"
 
-url: "http://efttbthub.github.io/"
-baseurl: "eft-tbt-v1"
 
+exclude: ["CNAME", "README.md", "LICENSE.md"]
 
-markdown: kramdown
-
-exclude: ["CNAME", "README.md"]
+gems: [jekyll-paginate]
+paginate:            5
