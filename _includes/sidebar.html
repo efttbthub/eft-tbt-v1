@@ -20,7 +20,7 @@
     {% for cur_page in pages_list %}
       {% if cur_page.title != null %}
         {% if cur_page.layout == "page" %}
-          <a class="sidebar-nav-item{% if page.url == cur_page.url %} active{% endif %}" href="{{ cur_page.url }}{{ site.baseurl }}">{{ cur_page.title }}</a>
+          <a class="sidebar-nav-item{% if page.url == cur_page.url %} active{% endif %}" href="{{ site.baseurl }}{{ cur_page.url }}">{{ cur_page.title }}</a>
         {% endif %}
       {% endif %}
     {% endfor %}
