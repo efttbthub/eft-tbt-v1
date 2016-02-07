@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Où?&nbsp;Quand?&nbsp;Comment?
-permalink: ou-quand-comment
+permalink: ou-quand-comment/
 ---
 
 

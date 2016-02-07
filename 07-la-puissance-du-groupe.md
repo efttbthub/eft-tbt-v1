@@ -1,7 +1,7 @@
 ---
 layout: page
 title: La puissance du groupe
-permalink: la-puissance-du-groupe
+permalink: la-puissance-du-groupe/
 ---
 
 

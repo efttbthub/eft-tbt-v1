@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Intervenante
-permalink: intervenante
+permalink: intervenante/
 ---
 
 # Intervenante : Isabelle Levrat

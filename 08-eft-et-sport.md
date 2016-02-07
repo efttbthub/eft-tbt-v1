@@ -1,7 +1,7 @@
 ---
 layout: page
 title: EFT groups et sport
-permalink: eft-et-sport
+permalink: eft-et-sport/
 ---
 
 # EFT et performances
