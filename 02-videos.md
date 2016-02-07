@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vidéos
-permalink: /videos/
+permalink: videos
 ---
 
 
