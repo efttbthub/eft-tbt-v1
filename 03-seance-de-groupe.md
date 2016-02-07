@@ -8,7 +8,7 @@ permalink: seance-de-groupe/
 
 ## Comment se déroule la séance de groupe?
 
-### 9 h
+### 9 h
 
 - Accueil des participants et distribution d’un *Mind Book* (petit livret personnel, destiné aux participants qui souhaitent prendre des notes, prises de consciences et évolution de leur travail).
 - Explication de la partie « technique » (très simple, aucun prérequis nécessaire !)

@@ -15,7 +15,7 @@ En effet, alors qu’une participante à cette conférence se proposa comme volo
 
 Ce que tout le monde a fait. Et c’est en moins de 10 minutes que notre volontaire s’est rendu compte que sa douleur avait disparu !  Cela se lisait sur son visage ! Elle recherchait presque cette douleur, comme si elle s’était cachée quelque part ailleurs... Mais non, elle s’était bien « évaporée » !
 
-## L’importance du groupe en EFT
+## L’importance du groupe en EFT
 
 C’est simple, le travail est plus rapide, plus efficace, plus agréable.
 
