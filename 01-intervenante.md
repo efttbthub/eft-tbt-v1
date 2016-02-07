@@ -28,5 +28,5 @@ Bruce Lipton
 
 (Enseignant en Biologie Cellulaire à la faculté de Médecine de l’Université du Wisconsin, il s’est ensuite consacré à des recherches révolutionnaires sur les cellules souches et la membrane cellulaire. Ses recherches, menées à l’Ecole de médecine de l’Université de Stanford, ont joué un rôle précurseur dans le développement de l’épigénétique, la discipline scientifique qui explore l’influence de l’environnement sur l’ADN.)
 
-Vidéos de Bruce Lipton
+[Vidéos de Bruce Lipton](../videos/)
 ​
