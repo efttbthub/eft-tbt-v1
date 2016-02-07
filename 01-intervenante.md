@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intervenants
+title: Intervenante
 permalink: intervenante
 ---
 
@@ -19,14 +19,13 @@ Tout au long de cette expérience de 24 ans dans la gestion du stress, Isabelle 
 Actuellement consultante,  elle travaille aussi bien pour les particuliers que pour le monde de l’entreprise.
 
 
-## QUE PENSENT-ILS DE L’EFT?
+## Que pensent-ils de l’EFT?
 
-"L’EFT permet de véritables guérisons. " Deepak Chopra
+> « L’EFT permet de véritables guérisons. »<br />– Deepak Chopra
 
-"L’EFT est un processus simple et puissant qui peut influencer profondément l’activité des gênes, de la santé et du comportement."
-Bruce Lipton
+> « L’EFT est un processus simple et puissant qui peut influencer profondément l’activité des gênes, de la santé et du comportement. »<br />– Bruce Lipton
 
-(Enseignant en Biologie Cellulaire à la faculté de Médecine de l’Université du Wisconsin, il s’est ensuite consacré à des recherches révolutionnaires sur les cellules souches et la membrane cellulaire. Ses recherches, menées à l’Ecole de médecine de l’Université de Stanford, ont joué un rôle précurseur dans le développement de l’épigénétique, la discipline scientifique qui explore l’influence de l’environnement sur l’ADN.)
+Bruce Lipton, enseignant en Biologie Cellulaire à la faculté de Médecine de l’Université du Wisconsin, il s’est ensuite consacré à des recherches révolutionnaires sur les cellules souches et la membrane cellulaire. Ses recherches, menées à l’Ecole de médecine de l’Université de Stanford, ont joué un rôle précurseur dans le développement de l’épigénétique, la discipline scientifique qui explore l’influence de l’environnement sur l’ADN.)
 
 [Vidéos de Bruce Lipton](../videos/)
 ​
